@@ -1,4 +1,4 @@
-## git clone
+## git clone 加速
 
 git clone https://:github.com/你仓库地址
 
